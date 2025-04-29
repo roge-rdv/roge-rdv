@@ -29,20 +29,14 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" />
 </div>
 
-### Bancos de dados:
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
 ---
 
-## 🌟 Projetos em Destaque
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
-</p>
-- 🚀 [Projeto 1](#) - Descrição breve do projeto.
-- 🌌 [Projeto 2](#) - Descrição breve do projeto.
+## 📊 Métricas Personalizadas
+<div align="center">
+  <img src="https://img.shields.io/badge/Commits-1,234-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projetos-12-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linguagens-5-orange?style=for-the-badge" />
+</div>
 
 ---
 
