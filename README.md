@@ -56,7 +56,7 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
 
 ## 📊 Atividade
 <p align="center">
-  <img src="https://profile-counter.glitch.me/roge-rdv/count.svg" />
+  <img src="https://profile-counter.glitch.me/devRogi/count.svg" />
 </p>
 
 <p align="center">
