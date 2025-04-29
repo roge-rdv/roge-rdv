@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hello, world! 👋
 
-<!--
-**roge-rdv/roge-rdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpzOXJuenhieGVzMjE0NTA3cjlxOGo0d3RyZ3ZkMzBhcG00Z2YzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KGd6ns7MR1gPCRT52z/giphy.gif" width="200"/>
 
-Here are some ideas to get you started:
+Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvimento de Sistemas**. Estou sempre procurando aprender novas tecnologias e melhorar minhas habilidades de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Educação
+- 📚 Estudando **Análise e Desenvolvimento de Sistemas**
+
+---
+
+## 💻 Habilidades Técnicas
+### Linguagens de programação:
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</div>
+
+### Ferramentas:
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" />
+</div>
+
+### Bancos de dados:
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+---
+
+## 🌟 Projetos em Destaque
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+</p>
+- 🚀 [Projeto 1](#) - Descrição breve do projeto.
+- 🌌 [Projeto 2](#) - Descrição breve do projeto.
+
+---
+
+## 📈 Status no GitHub
+<a href="https://www.github.com/roge-rdv">
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=roge-rdv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roge-rdv&layout=compact&langs_count=16&theme=dark"/>
+</a>
+
+---
+
+## 📊 Atividade
+<p align="center">
+  <img src="https://profile-counter.glitch.me/devRogi/count.svg" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+</p>
+
+![Contribuição do GitHub com animação de cobra](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎨 Sobre Mim
+- 🌱 Atualmente aprendendo **Java**.
+- 💬 Pergunte-me sobre **JavaScript**, **Node.js** e **MongoDB**.
+- ⚡ Fato curioso: Amo resolver desafios de lógica e criar projetos criativos.
+
