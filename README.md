@@ -63,20 +63,12 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/roge-rdv/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/roge-rdv/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/roge-rdv/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+---
+
+## 🐍 Animação de Cobra
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roge-rdv/roge-rdv/output/github-contribution-grid-snake.svg" alt="Animação de Cobra">
+</p>
 
 ---
 
