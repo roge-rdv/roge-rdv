@@ -56,7 +56,7 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
 
 ## 📊 Atividade
 <p align="center">
-  <img src="https://profile-counter.glitch.me/devRogi/count.svg" />
+  <img src="https://profile-counter.glitch.me/roge-rdv/count.svg" />
 </p>
 
 <p align="center">
@@ -66,15 +66,15 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/roge-rdv/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/roge-rdv/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/roge-rdv/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
