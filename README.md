@@ -65,13 +65,6 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
 
 ---
 
-## 🐍 Animação de Cobra
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roge-rdv/roge-rdv/output/github-contribution-grid-snake.svg" alt="Animação de Cobra">
-</p>
-
----
-
 ## 🎨 Sobre Mim
 - 🌱 Atualmente aprendendo **Java**.
 - 💬 Pergunte-me sobre **JavaScript**, **Node.js** e **MongoDB**.
