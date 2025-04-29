@@ -31,15 +31,6 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
 
 ---
 
-## 📊 Métricas Personalizadas
-<div align="center">
-  <img src="https://img.shields.io/badge/Commits-1,234-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projetos-12-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linguagens-5-orange?style=for-the-badge" />
-</div>
-
----
-
 ## 📈 Status no GitHub
 <a href="https://www.github.com/roge-rdv">
   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=roge-rdv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
