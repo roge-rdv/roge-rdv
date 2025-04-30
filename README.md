@@ -84,6 +84,4 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
 
 ---
 
-<img src="https://raw.githubusercontent.com/roge-rdv/roge-rdv/output/snake.svg" alt="Snake animation" />
-
 
