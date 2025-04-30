@@ -32,10 +32,10 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
 ---
 
 ## 📈 Status no GitHub
-<a href="https://www.github.com/roge-rdv">
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=roge-rdv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roge-rdv&layout=compact&langs_count=16&theme=dark"/>
-</a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=roge-rdv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roge-rdv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
 
