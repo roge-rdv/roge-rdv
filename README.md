@@ -44,10 +44,6 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
   <img src="https://profile-counter.glitch.me/roge-rdv/count.svg" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-</p>
-
 ---
 
 ## 🎨 Sobre Mim
@@ -82,4 +78,14 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="41" alt="vscode logo"  />
 </div>
+
+---
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roge-rdv/roge-rdv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roge-rdv/roge-rdv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/roge-rdv/roge-rdv/output/pacman-contribution-graph.svg">
+</picture>
 
