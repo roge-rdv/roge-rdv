@@ -59,7 +59,7 @@ Meu nome é **David** e sou um estudante apaixonado por **Análise e Desenvolvim
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+  <a href="Ko-fi.com/rogerdv"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  /></a>
 </div>
 
 ###
