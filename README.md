@@ -6,7 +6,7 @@ Meu nome é David e sou um estudante apaixonado por Análise e Desenvolvimento d
 🎓 Educação
 📚 A estudar Análise e Desenvolvimento de Sistemas
 
-💻 Competências Técnicas
+# 💻 Competências Técnicas
 Linguagens de programação:
 <div align="left">
 <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,7 +24,7 @@ Ferramentas:
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" />
 </div>
 
-📈 Estado no GitHub
+# 📈 Estado no GitHub
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=roge-rdv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roge-rdv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -33,7 +33,7 @@ Ferramentas:
 </a>
 </div>
 
-🎨 Sobre Mim
+# 🎨 Sobre Mim
 🌱 Atualmente a aprender Java.
 
 💬 Pergunte-me sobre JavaScript, Node.js e MongoDB.
