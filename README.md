@@ -1,12 +1,12 @@
 Hello, world! 👋
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpzOXJuenhieGVzMjE0NTA3cjlxOGo0d3RyZ3ZkMzBhcG00Z2YzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KGd6ns7MR1gPCRT52z/giphy.gif" width="200"/>
 
-Meu nome é David e sou um estudante apaixonado por Análise e Desenvolvimento de Sistemas. Estou sempre procurando aprender novas tecnologias e melhorar minhas habilidades de programação.
+Meu nome é David e sou um estudante apaixonado por Análise e Desenvolvimento de Sistemas. Estou sempre a procurar aprender novas tecnologias e a melhorar as minhas competências de programação.
 
 🎓 Educação
-📚 Estudando Análise e Desenvolvimento de Sistemas
+📚 A estudar Análise e Desenvolvimento de Sistemas
 
-💻 Habilidades Técnicas
+💻 Competências Técnicas
 Linguagens de programação:
 <div align="left">
 <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,7 +24,7 @@ Ferramentas:
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" />
 </div>
 
-📈 Status no GitHub
+📈 Estado no GitHub
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=roge-rdv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roge-rdv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -33,22 +33,12 @@ Ferramentas:
 </a>
 </div>
 
-📊 Atividade e Animações
-<p align="center">
-<img src="https://profile-counter.glitch.me/roge-rdv/count.svg" />
-</p>
-
-<div align="center">
-<h3>🐍 Cobrinha de Contribuições 🐍</h3>
-![snake animation](https://github.com/roge-rdv/roge-rdv/blob/output/github-contribution-grid-snake2.svg)
-</div>
-
 🎨 Sobre Mim
-🌱 Atualmente aprendendo Java.
+🌱 Atualmente a aprender Java.
 
 💬 Pergunte-me sobre JavaScript, Node.js e MongoDB.
 
-⚡ Fato curioso: Amo resolver desafios de lógica e criar projetos criativos.
+⚡ Facto curioso: Adoro resolver desafios de lógica e criar projetos criativos.
 
 <div align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/seu-linkedin-aqui/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
