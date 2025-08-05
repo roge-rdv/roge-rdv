@@ -28,24 +28,44 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roge-rdv&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roge-rdv&layout=compact&langs_count=7&theme=dracula&locale=pt-br" height="150" alt="Linguagens mais usadas" />
-</p>
+<div align="center">
+  <table >
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=roge-rdv&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub de roge-rdv" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roge-rdv&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Linguagens mais usadas por roge-rdv" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roge-rdv&theme=vue-dark&hide_border=true" alt="Sequência de Commits de roge-rdv" />
+</div>
 
-<p align="center">
+---
+  
+### 🎵 Ouvindo Enquanto Coda
+
+<div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xixcz4vmvixa6gfmewqlmz6azq" alt="Spotify Recently Played" />
-</p>
+</div>
 
 ---
 
 ### 📫 Conecte-se comigo
 
 <p align="center">
+  <a href="https://linkedin.com/in/[SEU-LINKEDIN-AQUI]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://instagram.com/roge_rdv" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://t.me/roge_rdv" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:[SEU-EMAIL-AQUI]" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
