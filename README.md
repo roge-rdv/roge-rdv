@@ -40,7 +40,7 @@ Ferramentas:
 
 <div align="center">
 <h3>🐍 Cobrinha de Contribuições 🐍</h3>
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/roge-rdv/roge-rdv/output/snake.svg" alt="Snake Contribution Grid"/>
+![snake animation](https://github.com/roge-rdv/roge-rdv/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 🎨 Sobre Mim
